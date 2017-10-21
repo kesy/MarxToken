@@ -83,7 +83,7 @@ contract StandardToken is Token {
 }
 
     /*The Marx token can only be transferred in increments of 1 to accounts with a balance of 0 Marx tokens
-    This gurentees no one can ever hold more than 1 Marx token at anytime except for the creator of the Token
+    This guarantees no one can ever hold more than 1 Marx token at anytime except for the creator of the Token
     Because of there restrictions on the Marx token, an economy based on the Marx token would never experience 
     income inequality because wealth is equal, fixed, and not easily redistributed*/
 
