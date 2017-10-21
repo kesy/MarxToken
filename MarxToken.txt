@@ -1,5 +1,5 @@
 pragma solidity ^0.4.4;
-
+///kesy SDHacks2017
 contract Token {
 
     /// @return total amount of tokens
