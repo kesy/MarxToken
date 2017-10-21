@@ -1,5 +1,6 @@
 # MarxToken
 The fairest and most nonfunctional currency 
+Made by kesy for SDHacks 2017 Nanome Blockchain Hackathonception challenge
 
 The Marx Token is at token deployed on the Ropsten Test Ethereum Network.
 
@@ -23,3 +24,5 @@ of currency.
 Unfortunatly since the Marx is not deployed on the Main Ethereum Network (because that costs 
 real people money) it cannot be traded on the main network, but you can still try it out on 
 the Ropsten Test Network from the contract address: 0x789e150aa256b81835fcec9cf75258ebcad92453
+
+
